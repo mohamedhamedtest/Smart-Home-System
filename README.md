@@ -26,12 +26,19 @@ home application:
 
 1.Component you may need :
     1. 24C08 EEPROM, or use the internal.
+    
     2. Bluetooth module HC-05 or TTL (PL2003 or CH340or CP2102).
+    
     3. 5 transistors and relays (Not mandatory they can be replaced by LEDs.
+    
     4. 1 transistor and Solid-state Relay for dimming circuit.
+    
      5. LM35 temperature sensor or equivalent.
+     
      6. 2 NPN and DC motor
+     
      7. Keypad & Lm01602A Character LCD.
+     
      8. Servo motor
 
 
