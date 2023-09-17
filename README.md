@@ -25,6 +25,7 @@ home application:
 ❑ Admin and user can access to all applies except user cannot control the door opening.
 
 1.Component you may need :
+
     1. 24C08 EEPROM, or use the internal.
     
     2. Bluetooth module HC-05 or TTL (PL2003 or CH340or CP2102).
